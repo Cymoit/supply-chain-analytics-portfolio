@@ -72,7 +72,7 @@ This project analyzes September 2026 sales data to understand product demand, sa
 
 ## Dashboard
 
-![Sales Dashboard](./screenshots/sales-dashboard.png)
+![Sales & Demand Analytics Dashboard](./Sales&demandDashboard.png)
 
 ## Key Analysis
 
