@@ -6,7 +6,7 @@ The dashboard was built to support practical supply chain analysis, with a focus
 
 ## Dashboard Preview
 
-![Sales & Demand Analytics Dashboard](sales-demand-analytics/SalesDemandPowerBI.png)
+![Sales & Demand Analytics Dashboard](SalesDemandPowerBI.png)
 
 ## Download
 
