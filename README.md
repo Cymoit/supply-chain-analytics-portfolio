@@ -8,9 +8,9 @@ This repository contains my analytics projects built from actual business data. 
 
 ### 1. Sales & Demand Analytics Dashboard
 
-Analyzed September 2026 transaction data to understand sales performance, product demand, and order activity.
+Analyzed sales and demand data to understand sales performance, product activity, demand trends, and inventory value.
 
-**Tools:** Excel, Power Query, PivotTables, PivotCharts
+Tools: Power BI, DAX, Excel, Power Query, Data Modeling
 
 [View Project](./sales-demand-analytics)
 
