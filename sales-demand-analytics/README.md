@@ -1,41 +1,37 @@
-## Overview
+# Sales & Demand Analytics Dashboard
 
-This project analyzes September 2026 sales data to understand product demand, sales performance, and customer order activity.
+This project analyzes sales performance, demand trends, product performance, inventory value, and segment sales using Power BI.
 
-## Data
+The dashboard was built to support practical supply chain analysis, with a focus on understanding sales behavior, demand patterns, and inventory-related decisions.
 
-- 1,347 sales lines
-- 827 customer orders
-- 190 distinct products
-- Reporting period: September 2026
+## Dashboard Preview
 
-## Objectives
+![Sales & Demand Analytics Dashboard](sales-demand-dashboard.png)
 
-- Analyze sales by product and category
-- Identify products with higher and lower sales activity
-- Review order activity over time
-- Support demand and purchasing decisions using sales data
+## Download
 
-## Process
+[Download Power BI Dashboard (.pbix)](./SalesandDemandDashboard.pbix)
 
-1. Cleaned and standardized transaction data using Power Query
-2. Transformed and summarized the sales data
-3. Built PivotTables and PivotCharts
-4. Added KPIs and interactive filters
-5. Reviewed the results to identify demand patterns
-
-## Tools
-
-- Microsoft Excel
-- Power Query
-- PivotTables
-- PivotCharts
-
-## Dashboard
-
-![Sales & Demand Dashboard](./Sales-demand-dashboard.png)
+[Download Excel Dashboard (.xlsx)](./Sales_Demand_Dashboard.xlsx)
 
 ## Key Analysis
 
-The dashboard provides views of sales performance, product demand, and order activity to support purchasing and inventory decisions.
+- Sales and gross profit by category
+- Weekly demand vs sales
+- Top 10 products by sales
+- Sales vs inventory value by category
+- Product sales and recorded quantity
+- Sales mix by segment
 
+## Tools Used
+
+- Power BI
+- DAX
+- Data Modeling
+- Excel
+- Power Query
+- Power Pivot
+
+## Notes
+
+Product quantities are interpreted based on the recorded selling unit. Because products use different packaging and units of measure, quantity comparisons across different products should be interpreted with caution.
